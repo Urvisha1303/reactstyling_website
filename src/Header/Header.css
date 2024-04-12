@@ -1,0 +1,12 @@
+.btn-read{
+    width: 115px;
+}
+
+.btn-read:hover{
+    width: 130px;
+}
+
+.parth:hover {
+    background: var(--bs-white);
+    color: var(--bs-black) !important;
+}

@@ -1,0 +1,18 @@
+.services-mx {
+    margin: 0 20px;
+}
+.col-gap{
+    gap: 30px;
+}
+.excercise:hover i {
+    color: #fff;
+
+}
+
+.excercise:hover p {
+    color: #fff !important;
+}
+
+.excercise:hover {
+    background-color: #ff3c41 !important;
+}
